@@ -1,1 +1,6 @@
-
+sentence-transformers
+faiss-cpu
+google-generativeai
+requests
+pydantic
+numpy
